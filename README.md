@@ -76,7 +76,8 @@ http://localhost:4002/api/v1/noteapp/
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/9dac11b7-6e6a-43c3-8622-9e74802d5d81" />
+
 
 ---
 
