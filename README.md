@@ -76,7 +76,7 @@ http://localhost:4002/api/v1/noteapp/
 
 ## 📸 Screenshots
 
-<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/9dac11b7-6e6a-43c3-8622-9e74802d5d81" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/d3fdfcf2-bb2b-4722-91f4-17f52e11d425" />
 
 
 ---
