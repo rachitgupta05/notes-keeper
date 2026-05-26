@@ -1,4 +1,4 @@
-# 📝 Notes Keeper
+# 📝 Notes Keeper Web Application
 
 A full-stack Notes Keeper web application built using React, Node.js, Express, and MongoDB. It allows users to create, update, and delete notes with persistent storage and a clean user interface.
 
